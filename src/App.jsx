@@ -10,6 +10,9 @@ function App(){
   return (
     <div>
       <h1>User Info</h1>
+
+
+      
       <Table info={info}/>
       <AxiosComponent/>
     </div>
